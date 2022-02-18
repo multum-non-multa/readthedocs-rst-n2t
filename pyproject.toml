@@ -2,7 +2,7 @@
 name = "readthedocs-rst-n2t"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Multum-non-multa Name <...>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
