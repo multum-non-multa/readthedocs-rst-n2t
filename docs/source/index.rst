@@ -21,11 +21,10 @@ Welcome to a Nand2Tetris companion
    :maxdepth: 2
    :caption: Contents:
 
-
+   about
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
