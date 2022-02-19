@@ -1,6 +1,5 @@
-Lumache
+n2t
 =======
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers that
-creates recipes mixing random ingredients.sphinx-quickstart docs
+**Nand2Tetris**
 

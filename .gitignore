@@ -158,3 +158,4 @@ cython_debug/
 # Local Netlify folder
 .netlify
 _sandbox
+my-notes-gitignored.md
