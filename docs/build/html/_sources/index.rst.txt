@@ -22,6 +22,7 @@ Welcome to a Nand2Tetris companion
    :caption: Contents:
 
    about
+   intro
 
 Indices and tables
 ==================
