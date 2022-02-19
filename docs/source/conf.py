@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'rtd-rst-n2t'
-copyright = '2022, multum-non-multa'
-author = 'multum-non-multa'
+project = 'entwoty'
+copyright = '2022, Multum Non Multa'
+author = 'M.N. Multa'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '0.3'
 
 
 # -- General configuration ---------------------------------------------------
@@ -31,6 +31,7 @@ release = '0.0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.duration',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -39,7 +40,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = []
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -47,7 +48,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+# html_theme = 'alabaster'
+html_theme = 'furo'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

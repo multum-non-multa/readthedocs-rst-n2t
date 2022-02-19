@@ -8,6 +8,7 @@ authors = ["Multum-non-multa Name <...>"]
 python = "^3.9"
 Sphinx = "^4.4.0"
 alabaster = "^0.7.12"
+furo = "^2022.2.14"
 
 [tool.poetry.dev-dependencies]
 
