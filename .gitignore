@@ -157,3 +157,4 @@ cython_debug/
 
 # Local Netlify folder
 .netlify
+_sandbox
