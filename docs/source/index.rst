@@ -19,10 +19,17 @@ Welcome to a Nand2Tetris companion
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Chips
 
    about
    intro
+   myhdltest
+
+.. toctree::
+   :maxdepth: 2
+   :caption: ALU
+
+   rawembed
 
 Indices and tables
 ==================

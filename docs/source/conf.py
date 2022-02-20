@@ -57,3 +57,8 @@ html_theme = 'furo'
 html_static_path = ['_static']
 
 source_suffix = ['.rst', '.md']
+
+html_js_files = [
+    'js/custom.js',
+]
+
