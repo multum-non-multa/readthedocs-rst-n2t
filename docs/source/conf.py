@@ -62,3 +62,4 @@ html_js_files = [
     'js/custom.js',
 ]
 
+html_logo = "images/codelogo.png"
